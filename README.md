@@ -39,7 +39,7 @@ I encourage you all to take a look at Emmet snippets for generating HTML and CSS
 
 Resources
 
--   [Emmet in Visual Studio Code](https://www.youtube.com/watch?v=5guZjNDcVnA)
+-   
 -   [Understanding REM Units](https://www.sitepoint.com/understanding-and-using-rem-units-in-css/)
 -   [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
